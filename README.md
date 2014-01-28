@@ -69,6 +69,8 @@ end
 
 You only need to call `lookup_carrier_by` if your phone and carrier attributes are named something other than `:phone` and `:carrier`. In the example above, the phone number attribute is `:phone_number` and the carrier attribute is `:carrier_name`.
 
+__NOTE:__ _This isn't 100% accurate. If the number changed carriers, it might return the wrong carrier. Also, it might return nil if it doesn't find the carrier. It uses fonefinder.net to perform the lookups._
+
 ## Other Fun Stuff
 Get the formatted email address:
 ```ruby
@@ -93,9 +95,6 @@ Lookup the carrier by phone number:
 SmsMailer::Carrier.lookup("6096175949")
 => "verizon"
 ```
-
-_**This isn't 100% accurate. If the number changed carriers, it might return the wrong carrier. Also, it might return nil if it doesn't find the carrier. It uses fonefinder.net to perform the lookups._
-
 ## Asynchronous Mailers
 
 In your setup block, just add the following:
