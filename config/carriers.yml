@@ -1,0 +1,232 @@
+alltel:
+  name: Alltel
+  address: message.alltel.com
+ameritech:
+  name: Ameritech
+  address: paging.acswireless.com
+att: 
+  name: AT&T
+  address: txt.att.net
+bell-atlantic: 
+  name: Bell Atlantic
+  address: message.bam.com
+bellsouthmobility:
+  name: Bellsouth Mobility
+  address: blsdcs.net
+blueskyfrog: 
+  name: BlueSkyFrog
+  address: blueskyfrog.com
+boost: 
+  name: Boost Mobile
+  address: myboostmobile.com
+cellularsouth: 
+  name: Cellular South
+  address: csouth1.com
+comcast:
+  name: Comcast PCS
+  address: comcastpcs.textmsg.com
+cricket: 
+  name: Cricket
+  address: sms.mycricket.com
+kajeet: 
+  name: kajeet
+  address: mobile.kajeet.net
+metropcs: 
+  name: Metro PCS
+  address: mymetropcs.com
+nextel:
+  name: Nextel
+  address: messaging.nextel.com
+powertel: 
+  name: Powertel
+  address: ptel.net
+pscwireless: 
+  name: PSC Wireless
+  address: sms.pscel.com
+qwest: 
+  name: Qwest
+  address: qwestmp.com
+southernlink: 
+  name: Southern Link
+  address: page.southernlinc.com
+sprint: 
+  name: Sprint PCS
+  address: messaging.sprintpcs.com
+suncom: 
+  name: Suncom
+  address: tms.suncom.com
+t-mobile: 
+  name: T-Mobile
+  address: tmomail.net
+tracfone: 
+  name: Tracfone
+  address: mmst5.tracfone.com
+telus-mobility: 
+  name: Telus Mobility
+  address: msg.telus.com
+virgin: 
+  name: Virgin Mobile
+  address: vmobl.net
+verizon: 
+  name: Verizon Wireless
+  address: vtext.com
+# International Carriers
+aliant-canada:
+  name: Aliant (Canada)
+  address: chat.wirefree.ca
+beeline-ua: 
+  name: Beeline
+  address: sms.beeline.ua
+bellmobility-canada:
+  name: Bell Mobility (Canada)
+  address: txt.bell.ca
+bpl-mobile: 
+  name: BPL Mobile
+  address: bplmobile.com
+claro-brazil:
+  name: Claro (Brazil)
+  address: clarotorpedo.com.br
+claro-nicaragua: 
+  name: Claro (Nicaragua)
+  address: ideasclaro-ca.com
+du-arab-emirates: 
+  name: Du (UAE)
+  address: email2sms.ae
+e-plus-germany: 
+  name: E-Plus (Germany)
+  address: smsmail.eplus.de
+etisalat-arab-emirates: 
+  name: Etisalat (UAE)
+  address: email2sms.ae
+fido-canada: 
+  name: Fido
+  address: fido.ca
+koodoo:
+  name: Koodoo (Canada)
+  address: msg.koodomobile.com
+manitobatelecom-canada:
+  name: Manitoba Telecom (Canada)
+  address: text.mtsmobility.com
+mobinil-egypt:
+  name: Mobinil
+  address: mobinil.net
+mobistar-belgium: 
+  name: Mobistar (Belgium)
+  address: mobistar.be
+mobitel: 
+  name: Mobitel
+  address: sms.mobitel.lk
+movistar-spain: 
+  name: Movistar (Spain)
+  address: correo.movistar.net
+northerntel-canada:
+  name: NorthernTel (Canada)
+  address: txt.northerntelmobility.com
+o2-germany: 
+  name: o2 (Germany)
+  address: o2online.de
+o2-uk: 
+  name: o2 (UK)
+  address: mmail.co.uk
+orange-mumbai: 
+  name: Orange (Mumbai)
+  address: orangemail.co.in
+orange-netherlands: 
+  name: Orange (Netherlands)
+  address: sms.orange.nl
+orange-uk: 
+  name: Orange (UK)
+  address: orange.net
+rogers-wireless: 
+  name: Rogers Wireless
+  address: pcs.rogers.com
+rogers-canada:
+  name: Rogers (Canada)
+  address: pcs.rogers.ca
+sasktel-canada:
+  name: SaskTel (canada)
+  address: sms.sasktel.ca
+sfr-france: 
+  name: SFR (France)
+  address: sfr.fr
+t-mobile-austria: 
+  name: T-Mobile (Austria)
+  address: sms.t-mobile.at
+t-mobile-germany: 
+  name: T-Mobile (Germany)
+  address: t-d1-sms.de
+t-mobile-germany: 
+  name: T-Mobile (Netherlands)
+  address: gin.nl
+t-mobile-uk: 
+  name: T-Mobile (UK)
+  address: t-mobile.uk.net
+telebec-canada:
+  name: Telebec (Canada)
+  address: txt.telebecmobilite.com
+telefonica-spain: 
+  name: Telefonica (Spain)
+  address: movistar.net
+telus-canada:
+  name: Telus (Canada)
+  address: msg.telus.com
+virgin-canada:
+  name: Virgin (Canada)
+  address: vmobile.ca 
+vodafone-germany: 
+  name: Vodafone (Germany)
+  address: vodafone-sms.de
+vodafone-egypt: 
+  name: Vodafone (Egypt)
+  address: vodafone.com.eg
+vodafone-uk: 
+  name: Vodafone (UK)
+  address: sms.vodafone.net
+vodafone-italy: 
+  name: Vodafone (Italy)
+  address: sms.vodafone.it
+vodafone-jp-chuugoku: 
+  name: Vodafone (Japan - Chuugoku)
+  address: n.vodafone.ne.jp
+vodafone-jp-hokkaido: 
+  name: Vodafone (Japan - Hokkaido)
+  address: d.vodafone.ne.jp
+vodafone-jp-hokuriko: 
+  name: Vodafone (Japan - Hokuriko)
+  address: r.vodafone.ne.jp
+vodafone-jp-kansai: 
+  name: Vodafone (Japan - Kansai)
+  address: k.vodafone.ne.jp
+vodafone-jp-osaka: 
+  name: Vodafone (Japan - Osaka)
+  address: k.vodafone.ne.jp
+vodafone-jp-kanto: 
+  name: Vodafone (Japan - Kanto)
+  address: k.vodafone.ne.jp
+vodafone-jp-koushin: 
+  name: Vodafone (Japan - Koushin)
+  address: k.vodafone.ne.jp
+vodafone-jp-tokyo: 
+  name: Vodafone (Japan - Tokyo)
+  address: k.vodafone.ne.jp
+vodafone-jp-kyuushu: 
+  name: Vodafone (Japan - Kyuushu)
+  address: q.vodafone.ne.jp
+vodafone-jp-okinawa: 
+  name: Vodafone (Japan - Okinawa)
+  address: q.vodafone.ne.jp
+vodafone-jp-shikoku: 
+  name: Vodafone (Japan - Shikoku)
+  address: s.vodafone.ne.jp
+vodafone-jp-touhoku: 
+  name: Vodafone (Japan - Touhoku)
+  address: h.vodafone.ne.jp
+vodafone-jp-niigata: 
+  name: Vodafone (Japan - Niigata)
+  address: h.vodafone.ne.jp
+vodafone-jp-toukai: 
+  name: Vodafone (Japan - Toukai)
+  address: h.vodafone.ne.jp
+vodafone-spain: 
+  name: Vodafone (Japan - Spain)
+  address: vodafone.es
